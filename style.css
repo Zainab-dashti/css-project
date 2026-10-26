@@ -1,0 +1,88 @@
+body{
+background: linear-gradient(rgb(85, 85, 215) ,rgb(34, 90, 80));  
+background-repeat: no-repeat;
+background-size: cover;
+overflow: hidden;
+height: 580px;
+}
+
+.navbar{
+    display: flex;
+
+
+}
+h1{
+    font-size: 35px;
+    color: white;
+}
+ul{
+    display: flex;
+    list-style: none;
+    color: white;
+    font-size: 18px;
+    margin-top: -45px;
+        margin-left: 230px;
+
+    gap: 60px;
+}
+#signup{
+    border: 2px solid rgb(249, 247, 247) ;
+    background-color: transparent;
+    padding: 10px ;
+    color: white;
+    width: 80px;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-top: -10px;
+    margin-left: -30px;
+
+}
+
+#signin{
+    border: 2px solid rgb(249, 247, 247) ;
+    background-color: transparent;
+    padding: 10px ;
+    color: white;
+    width: 80px;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-top: -10px;
+    
+}
+.section{
+    margin-left: -1230px;
+    margin-top: 200px;
+}
+#join{
+    background-color: #2596be;
+    padding: 10px;
+    width: 100px;
+    color: rgb(206, 210, 214);
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+
+}
+p{
+    color: rgb(241, 234, 234);
+}
+#learn{
+    background-color: rgb(19, 18, 18);
+    padding: 10px;
+    width: 130px;
+    color: rgb(170, 178, 178);
+    font-size: 18px;
+    border: 2px black solid;
+    border-radius: 5px;
+
+}
+#sectionhead{
+    color: #7ccdeb;
+}
+img{
+    margin-left: 750px;
+    margin-top: -300px;
+    width: 400px;
+    height: 450px;
+}
